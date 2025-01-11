@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a second-year Computer Science student at the University of Central Florida, always looking for new ways to grow and challenge myself. My passion lies in working with cutting-edge technologies and building robust software that makes a positive impact.<br><br>🤝 Feel free to connect.<br>https://www.linkedin.com/in/ethan-mckissic-1682362a8/<br><br>💬 Check out my portfolio and dm me feedback!<br>https://lain561.github.io/portfolio-v1<br><br>🌱 Currently learning React
+Hello! I'm a second-year Computer Science student at the University of Central Florida, always looking for new ways to grow and challenge myself. My passion lies in working with cutting-edge technologies and building robust software that makes a positive impact.<br><br>🤝 Feel free to connect.<br>https://www.linkedin.com/in/ethan-mckissic-1682362a8/<br><br>💬 Check out my portfolio and dm me feedback!<br>https://lain561.github.io/portfolio-v1<br><br>
 
 
 # 💻 Tech Stack:
